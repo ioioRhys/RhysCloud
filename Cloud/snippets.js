@@ -6,7 +6,7 @@ const UUID = '659f16dc-e11c-4c06-aac2-88df8ad8bb55';
 // 反向代理IP，无法访问时通过代理访问
 const DEFAULT_PROXY_IP = 'bestproxy.030101.xyz:443'; // 来源：https://ipdb.030101.xyz/bestdomain/
 // 优选域名/IP
-const BEST_DOMAINS = ['bestcf.030101.xyz:443', 'japan.com:443', 'www.visa.com.sg:443', "www.visa.com.hk:443", "icook.hk:443", "icook.tw:443"]
+const BEST_DOMAINS = ['bestcf.030101.xyz:443', 'japan.com:443', 'www.visa.com.sg:443', "www.visa.com.hk:443", "icook.hk:443", "icook.tw:443",'cloudflare.182682.xyz','cloudflare.182682.xyz','speed.marisalnc.com','speed.marisalnc.com','freeyx.cloudflare88.eu.org','bestcf.top','cdn.2020111.xyz','cfip.cfcdn.vip' ,'cf.0sm.com','cf.090227.xyz','cf.zhetengsha.eu.org','cloudflare.9jy.cc', 'cf.zerone-cdn.pp.ua','cfip.1323123.xyz','cnamefuckxxs.yuchen.icu','cloudflare-ip.mofashi.ltd','115155.xyz','cname.xirancdn.us','f3058171cad.002404.xyz','8.889288.xyz','cdn.tzpro.xyz','cf.877771.xyz','xn--b6gac.eu.org']
 
 
 export default {
@@ -317,3 +317,4 @@ async function handle_ws(req) {
     });
 
 }
+
