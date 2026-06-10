@@ -1,0 +1,7 @@
+{
+    "latest_version": "8.0.0",
+    "min_required_version": "8.0.0",
+    "download_url": "https://你的网站.com/download",
+    "update_message": "请前往官网下载最新版本",
+    "release_notes": "修复了若干bug，提升了性能"
+}
